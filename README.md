@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🔭 I’m currently working on bt3 and anonymous messenger
+### 🔭 I’m currently working on evolution-chess
 ### 🌱 I’m currently learning ML and CTF
 ### 📫 How to reach me: telegram: @shrechochek
 <!--
