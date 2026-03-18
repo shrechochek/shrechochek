@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🔭 I’m currently working on truffle
+### 🔭 I’m currently working on ec-fe
 ### 🌱 I’m currently learning ML and CTF
 ### 📫 How to reach me: telegram: @shrechochek
 <!--
