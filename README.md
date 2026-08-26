@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🔭 I’m currently working on ec-fe
+### 🔭 I’m currently working on qvm and CTF course
 ### 🌱 I’m currently learning ML and CTF
 ### 📫 How to reach me: telegram: @shrechochek
 <!--
