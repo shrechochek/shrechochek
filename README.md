@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🔭 I’m currently working on qvm and CTF course
+### 🔭 I’m currently working on phoenix
 ### 🌱 I’m currently learning ML, CTF and quantum physics
 ### 📫 How to reach me: telegram: @shrechochek
 <!--
