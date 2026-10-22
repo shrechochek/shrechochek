@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🔭 I’m currently working on qvm and CTF course
-### 🌱 I’m currently learning ML and CTF
+### 🌱 I’m currently learning ML, CTF and quantum physics
 ### 📫 How to reach me: telegram: @shrechochek
 <!--
 **shrechochek/shrechochek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
