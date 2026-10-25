@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🔭 I’m currently working on phoenix (quantum base obfuscator)
+### 🔭 I’m currently working on phoenix (quantum based obfuscator)
 ### 🌱 I’m currently learning ML, CTF and quantum physics
 ### 📫 How to reach me: telegram: @shrechochek
 <!--
